@@ -1,1 +1,1 @@
-# packet for server xindellar
+packet for server xindellar
